@@ -1,0 +1,7 @@
+-> Create New File Google Sheets
+-> klik Menu Tools -> Code Editor
+-> Copy File ImportJSON.js
+-> Back To File Sheets
+-> Insert Formula In Column A1 =ImportJSON("link api json here")
+-> Enter
+-> Done
